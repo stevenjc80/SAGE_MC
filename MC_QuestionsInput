@@ -1,0 +1,48 @@
+4
+"Consulting" is a form of academic dishonesty. An example of this is...
+
+A. Asking the TA a question.
+B. Consulting your notes during a test.
+C. Consulting the provided Java API during a test.
+D. Asking the instructor a question.
+===
+B
+===
+What is the style code violation listed below is in the following code segment:
+
+<pre>
+	public static void main(String[] args) {
+	System.out.println("Hello World!");
+	}
+</pre>
+
+A. using "magic numbers"
+B. missing space between operators
+C. incorrect indentation
+D. multiple statements on a single line
+===
+C
+===
+What is the style code violation listed below is in the following code segment:
+
+<pre>
+	int x=41; int y = 0;
+	System.out.println(x);
+	System.out.println(y);
+</pre>
+
+A. missing space between operators
+B. incorrect class name capitalization
+C. inconsistent indentation
+D. lines of code are too long
+===
+A
+===
+Which of the following describe benefits of in-code documentation?
+
+A. clarifies design choices
+B. easier to maintain
+C. easier to reference
+D. all of the above
+===
+D
